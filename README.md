@@ -1,6 +1,6 @@
 # CheckWhatsGood
 
-This script attempts to automate some of the checks from the SANS Know Good / Find Evil poster ( http://digital-forensics.sans.org/media/poster_2014_find_evil.pdf ). It requires and may be made obsolesced by Dave Hull's Kansa project ( https://github.com/davehull/Kansa ).
+This script attempts to automate some of the checks from the SANS Know Good / Find Evil poster ( http://digital-forensics.sans.org/media/poster_2014_find_evil.pdf ). It requires and may be made obsolesced by Dave Hull's Kansa project ( https://github.com/davehull/Kansa ). The functions available are descibed below.
 
 ### GetBrowsers
 
